@@ -1,0 +1,5339 @@
+<?xml version="1.0"?>
+<!DOCTYPE HWINFO SYSTEM "HWiNFO32log.dtd">
+<HWINFO>
+
+<COMPUTER>
+	<NodeName>OSRS4</NodeName>
+		<IconIndex>19</IconIndex>
+
+		<ScanTime>18.08.2020 11:24</ScanTime>
+		<Property>
+			<Entry>Computer Name</Entry>
+			<Description>OSRS4</Description>
+		</Property>
+		<Property>
+			<Entry>Operating System</Entry>
+			<Description>Microsoft Windows 7 Ultimate Build 7601</Description>
+		</Property>
+		<Property>
+			<Entry>Service Pack</Entry>
+			<Description>Service Pack 1</Description>
+		</Property>
+		<Property>
+			<Entry>UEFI Boot</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Secure Boot</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Current User Name</Entry>
+			<Description>user</Description>
+		</Property>
+<SubNodes>
+
+<CPU>
+	<NodeName>Central Processor(s)</NodeName>
+		<IconIndex>20</IconIndex>
+
+		<Property>
+			<Entry>Number Of Processor Packages (Physical)</Entry>
+			<Description>1</Description>
+			<PropertyType>CPU_COUNT</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Number Of Processor Cores</Entry>
+			<Description>1</Description>
+			<PropertyType>CPU_COUNT</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Number Of Logical Processors</Entry>
+			<Description>2</Description>
+		</Property>
+<SubNode>
+	<NodeName>Intel Pentium 4-3200</NodeName>
+		<Property>
+			<Entry>Processor Name</Entry>
+			<Description>Intel Pentium 4-3200</Description>
+			<PropertyType>CPU_NAME</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Original Processor Frequency</Entry>
+			<Description>3200.0 MHz</Description>
+		</Property>
+		<Property>
+			<Entry>Original Processor Frequency [MHz]</Entry>
+			<Description>3200</Description>
+			<PropertyType>CPU_SPEED</PropertyType>
+		</Property>
+		<Property>
+			<Entry>CPU ID</Entry>
+			<Description>00000F49</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Brand Name</Entry>
+			<Description>Intel(R) Pentium(R) 4 CPU 3.20GHz</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Vendor</Entry>
+			<Description>GenuineIntel</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Stepping</Entry>
+			<Description>G1 / B0</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Code Name</Entry>
+			<Description>Prescott</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Technology</Entry>
+			<Description>90 nm</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Type</Entry>
+			<Description>Production Unit</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Platform</Entry>
+			<Description>LGA775 (FC-LGA4)</Description>
+		</Property>
+		<Property>
+			<Entry>Microcode Update Revision</Entry>
+			<Description>3</Description>
+		</Property>
+		<Property>
+			<Entry>Number of CPU Cores</Entry>
+			<Description>1</Description>
+		</Property>
+		<Property>
+			<Entry>Number of Logical CPUs</Entry>
+			<Description>2</Description>
+		</Property>
+		<Property>
+			<Entry>CPU LFM (Minimum)</Entry>
+			<Description>2800.0 MHz = 14 x 200.0 MHz</Description>
+		</Property>
+		<Property>
+			<Entry>CPU HFM (Base)</Entry>
+			<Description>3200.0 MHz = 16 x 200.0 MHz @ 1.3875 V [Locked]</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Current</Entry>
+			<Description>3192.1 MHz = 16 x 199.5 MHz @ 1.3875 V</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Bus Type</Entry>
+			<Description>FSB (QDR)</Description>
+		</Property>
+		<Property>
+			<Entry>L1 Cache</Entry>
+			<Description>Instruction Trace: 12K uOps, Data: 16 KBytes</Description>
+		</Property>
+		<Property>
+			<Entry>L2 Cache</Entry>
+			<Description>Integrated: 1 MBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Instruction TLB</Entry>
+			<Description>4KB/2MB/4MB Pages, Fully associative, 64 entries</Description>
+		</Property>
+		<Property>
+			<Entry>Data TLB</Entry>
+			<Description>4KB/4MB Pages, Fully associative, 64 entries</Description>
+		</Property>
+		<Property>
+			<Entry>FPU on Chip</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Enhanced Virtual-86 Mode</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Breakpoints</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Page Size Extensions</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Time Stamp Counter</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Pentium-style Model Specific Registers</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Physical Address Extension</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Machine Check Exception</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>CMPXCHG8B Instruction</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>APIC On Chip / PGE (AMD)</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Fast System Call</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Type Range Registers</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Page Global Feature</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Machine Check Architecture</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>CMOV Instruction</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Page Attribute Table</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>36-bit Page Size Extensions</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Processor Number</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>CLFLUSH Instruction</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Debug Trace and EMON Store</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Internal ACPI Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>MMX Technology</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Fast FP Save/Restore (IA MMX-2)</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Streaming SIMD Extensions</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Streaming SIMD Extensions 2</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Self-Snoop</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Multi-Threading Capable</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Automatic Clock Control</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>IA-64 Processor</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Signal Break on FERR</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Virtual Machine Extensions (VMX)</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Safer Mode Extensions (Intel TXT)</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Streaming SIMD Extensions 3</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Supplemental Streaming SIMD Extensions 3</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Streaming SIMD Extensions 4.1</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Streaming SIMD Extensions 4.2</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>AVX Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Fused Multiply Add (FMA)</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Carryless Multiplication (PCLMULQDQ)/GFMUL</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>CMPXCHG16B Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>MOVBE Instruction</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>POPCNT Instruction</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>XSAVE/XRSTOR/XSETBV/XGETBV Instructions</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>XGETBV/XSETBV OS Enabled</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Float16 Instructions</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>AES Cryptography Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Random Number Read Instruction (RDRAND)</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Extended xAPIC</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>MONITOR/MWAIT Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Thermal Monitor 2</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Enhanced SpeedStep Technology</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>L1 Context ID</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Send Task Priority Messages Disabling</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Processor Context ID</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Direct Cache Access</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>TSC-deadline Timer</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Performance/Debug Capability MSR</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>IA32 Debug Interface Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>64-Bit Debug Store</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>CPL Qualified Debug Store</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>64-bit Extensions</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>RDTSCP and TSC_AUX Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>1 GB large page support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>No Execute</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>SYSCALL/SYSRET Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Thermal Monitor 1</Entry>
+			<Description>Supported, Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Thermal Monitor 2</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Enhanced Intel SpeedStep (GV3)</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Bi-directional PROCHOT#</Entry>
+			<Description>N/A</Description>
+		</Property>
+		<Property>
+			<Entry>Extended Auto-HALT State C1E</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>MLC Streamer Prefetcher</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>MLC Spatial Prefetcher</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>DCU Streamer Prefetcher</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>DCU IP Prefetcher</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Intel Dynamic Acceleration (IDA) Technology</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Intel Dynamic FSB Switching</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Intel Turbo Boost Technology</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Programmable Ratio Limits</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Programmable TDC/TDP Limits</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware Duty Cycling</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Platform Requirement</Entry>
+			<Description>No (VR_CONFIG_04A)</Description>
+		</Property>
+		<Property>
+			<Entry>Platform Conformance</Entry>
+			<Description>No</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Physical Address Size</Entry>
+			<Description>36-bit (64 GBytes)</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Virtual Address Size</Entry>
+			<Description>48-bit (256 TBytes)</Description>
+		</Property>
+		<Property>
+			<Entry>Range 0-80000000 (0MB-2048MB) Type</Entry>
+			<Description>Write Back (WB)</Description>
+		</Property>
+		<Property>
+			<Entry>Range 80000000-C0000000 (2048MB-3072MB) Type</Entry>
+			<Description>Write Back (WB)</Description>
+		</Property>
+		<Property>
+			<Entry>Range BF700000-BF800000 (3063MB-3064MB) Type</Entry>
+			<Description>Uncacheable (UC)</Description>
+		</Property>
+		<Property>
+			<Entry>Range BF800000-C0000000 (3064MB-3072MB) Type</Entry>
+			<Description>Uncacheable (UC)</Description>
+		</Property>
+</SubNode>
+</CPU>
+<MOBO>
+	<NodeName>Motherboard</NodeName>
+		<IconIndex>23</IconIndex>
+
+		<Property>
+			<Entry>Computer Brand Name</Entry>
+			<Description>Unknown on Noname</Description>
+		</Property>
+		<Property>
+			<Entry>Motherboard Model</Entry>
+			<Description>Intel D945GCPE</Description>
+			<PropertyType>SYSTEM_MAINBOARD</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Motherboard Chipset</Entry>
+			<Description>Intel 945GC (Lakeport-GC) + ICH7</Description>
+			<PropertyType>SYSTEM_CHIPSET</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Motherboard Slots</Entry>
+			<Description>2xPCI, 1xPCI Express x1</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Express Version Supported</Entry>
+			<Description>v1.1</Description>
+		</Property>
+		<Property>
+			<Entry>USB Version Supported</Entry>
+			<Description>v2.0</Description>
+		</Property>
+		<Property>
+			<Entry>Intel Active Management Technology (iAMT)</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Intel Quick Resume Technology (Energy Lake)</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>SATA AHCI</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>SATA RAID0/1/10</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>SATA RAID5</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>6 PCI Express x1 Ports</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>BIOS Manufacturer</Entry>
+			<Description>Insyde Software</Description>
+		</Property>
+		<Property>
+			<Entry>BIOS Date</Entry>
+			<Description>07/10/2007</Description>
+		</Property>
+		<Property>
+			<Entry>BIOS Version</Entry>
+			<Description>PE94510M.86A.0050.2007.0710.1559</Description>
+		</Property>
+		<Property>
+			<Entry>UEFI BIOS</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Super-IO/LPC Chip</Entry>
+			<Description>ITE IT8718F, Rev G</Description>
+		</Property>
+<SubNode>
+	<NodeName>ACPI Devices</NodeName>
+<SubNode>
+	<NodeName>&#212;&#232;&#234;&#241;&#232;&#240;&#238;&#226;&#224;&#237;&#237;&#224;&#255; &#244;&#243;&#237;&#234;&#246;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#224;&#255; &#234;&#237;&#238;&#239;&#234;&#224; ACPI</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#212;&#232;&#234;&#241;&#232;&#240;&#238;&#226;&#224;&#237;&#237;&#224;&#255; &#244;&#243;&#237;&#234;&#246;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#224;&#255; &#234;&#237;&#238;&#239;&#234;&#224; ACPI</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Intel &#239;&#240;&#238;&#246;&#229;&#241;&#241;&#238;&#240;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel &#239;&#240;&#238;&#246;&#229;&#241;&#241;&#238;&#240;</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Intel &#239;&#240;&#238;&#246;&#229;&#241;&#241;&#238;&#240;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel &#239;&#240;&#238;&#246;&#229;&#241;&#241;&#238;&#240;</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Intel &#239;&#240;&#238;&#246;&#229;&#241;&#241;&#238;&#240;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel &#239;&#240;&#238;&#246;&#229;&#241;&#241;&#238;&#240;</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#207;&#240;&#238;&#227;&#240;&#224;&#236;&#236;&#232;&#240;&#243;&#229;&#236;&#251;&#233; &#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; &#239;&#240;&#229;&#240;&#251;&#226;&#224;&#237;&#232;&#233;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#207;&#240;&#238;&#227;&#240;&#224;&#236;&#236;&#232;&#240;&#243;&#229;&#236;&#251;&#233; &#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; &#239;&#240;&#229;&#240;&#251;&#226;&#224;&#237;&#232;&#233;</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0020 - 003D</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>00A0 - 00BD</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>04D0 - 04D1</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0020 - 003D</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>00A0 - 00BD</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>04D0 - 04D1</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#208;&#224;&#241;&#248;&#232;&#240;&#229;&#237;&#237;&#251;&#233; &#239;&#240;&#238;&#227;&#240;&#224;&#236;&#236;&#232;&#240;&#243;&#229;&#236;&#251;&#233; &#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; &#239;&#240;&#229;&#240;&#251;&#226;&#224;&#237;&#232;&#233;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#208;&#224;&#241;&#248;&#232;&#240;&#229;&#237;&#237;&#251;&#233; &#239;&#240;&#238;&#227;&#240;&#224;&#236;&#236;&#232;&#240;&#243;&#229;&#236;&#251;&#233; &#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; &#239;&#240;&#229;&#240;&#251;&#226;&#224;&#237;&#232;&#233;</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FEC00000 - FEC000FF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FEC00000 - FEC000FF</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#209;&#232;&#241;&#242;&#229;&#236;&#237;&#251;&#233; &#242;&#224;&#233;&#236;&#229;&#240;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#209;&#232;&#241;&#242;&#229;&#236;&#237;&#251;&#233; &#242;&#224;&#233;&#236;&#229;&#240;</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0040 - 0043</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0050 - 0053</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0040 - 0043</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0050 - 0053</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>0</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#194;&#251;&#241;&#238;&#234;&#238;&#242;&#238;&#247;&#237;&#251;&#233; &#242;&#224;&#233;&#236;&#229;&#240; &#241;&#238;&#225;&#251;&#242;&#232;&#233;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#194;&#251;&#241;&#238;&#234;&#238;&#242;&#238;&#247;&#237;&#251;&#233; &#242;&#224;&#233;&#236;&#229;&#240; &#241;&#238;&#225;&#251;&#242;&#232;&#233;</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED00000 - FED003FF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED00000 - FED003FF</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; &#239;&#240;&#255;&#236;&#238;&#227;&#238; &#228;&#238;&#241;&#242;&#243;&#239;&#224; &#234; &#239;&#224;&#236;&#255;&#242;&#232;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; &#239;&#240;&#255;&#236;&#238;&#227;&#238; &#228;&#238;&#241;&#242;&#243;&#239;&#224; &#234; &#239;&#224;&#236;&#255;&#242;&#232;</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0000 - 000F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0081 - 0083</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0087</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0089 - 008B</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>008F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>00C0 - 00DF</Description>
+		</Property>
+		<Property>
+			<Entry>DMA</Entry>
+			<Description>4</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0000 - 000F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0081 - 0083</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0087</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0089 - 008B</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>008F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>00C0 - 00DF</Description>
+		</Property>
+		<Property>
+			<Entry>DMA</Entry>
+			<Description>4</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#209;&#242;&#224;&#237;&#228;&#224;&#240;&#242;&#237;&#224;&#255; &#234;&#235;&#224;&#226;&#232;&#224;&#242;&#243;&#240;&#224; PS/2</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#209;&#242;&#224;&#237;&#228;&#224;&#240;&#242;&#237;&#224;&#255; &#234;&#235;&#224;&#226;&#232;&#224;&#242;&#243;&#240;&#224; PS/2</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0060</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0064</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>1</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0060</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0064</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>1</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#207;&#238;&#241;&#235;&#229;&#228;&#238;&#226;&#224;&#242;&#229;&#235;&#252;&#237;&#251;&#233; &#239;&#238;&#240;&#242;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#207;&#238;&#241;&#235;&#229;&#228;&#238;&#226;&#224;&#242;&#229;&#235;&#252;&#237;&#251;&#233; &#239;&#238;&#240;&#242;</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>03F8 - 03FF</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>4</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>03F8 - 03FF</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>4</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>03E8 - 03EF</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>4</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>02F8 - 02FF</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>3</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>02E8 - 02EF</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>3</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0100 - 03FF</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>1</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>3</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>4</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>5</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>6</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>7</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>8</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>10</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>11</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>12</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>13</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>14</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>15</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#194;&#241;&#242;&#240;&#238;&#229;&#237;&#237;&#251;&#233; &#228;&#232;&#237;&#224;&#236;&#232;&#234;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#194;&#241;&#242;&#240;&#238;&#229;&#237;&#237;&#251;&#233; &#228;&#232;&#237;&#224;&#236;&#232;&#234;</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0061</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0061</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#216;&#232;&#237;&#224; PCI</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#216;&#232;&#237;&#224; PCI</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0000 - 0CF7</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0D00 - FFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>000A0000 - 000BFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>000E0000 - 000EFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>F8000000 - FEBFFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>C0000000 - F0000000</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0000 - 0CF7</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0D00 - FFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>000A0000 - 000BFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>000E0000 - 000EFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>F8000000 - FEBFFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>C0000000 - F0000000</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>CMOS &#232; &#247;&#224;&#241;&#251;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>CMOS &#232; &#247;&#224;&#241;&#251;</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0070 - 0071</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0074 - 0077</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>8</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0070 - 0071</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0074 - 0077</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>8</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#208;&#229;&#241;&#243;&#240;&#241;&#251; &#241;&#232;&#241;&#242;&#229;&#236;&#237;&#238;&#233; &#239;&#235;&#224;&#242;&#251;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#208;&#229;&#241;&#243;&#240;&#241;&#251; &#241;&#232;&#241;&#242;&#229;&#236;&#237;&#238;&#233; &#239;&#235;&#224;&#242;&#251;</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0500 - 053F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0400 - 047F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0092</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0680 - 06FF</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0010 - 001F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0072 - 0073</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0080</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0084 - 0086</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0088</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>008C - 008E</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0090 - 009F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0770 - 077F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0500 - 053F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0400 - 047F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0092</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0680 - 06FF</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0010 - 001F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0072 - 0073</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0080</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0084 - 0086</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0088</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>008C - 008E</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0090 - 009F</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>0770 - 077F</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#208;&#229;&#241;&#243;&#240;&#241;&#251; &#241;&#232;&#241;&#242;&#229;&#236;&#237;&#238;&#233; &#239;&#235;&#224;&#242;&#251;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#208;&#229;&#241;&#243;&#240;&#241;&#251; &#241;&#232;&#241;&#242;&#229;&#236;&#237;&#238;&#233; &#239;&#235;&#224;&#242;&#251;</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>F0000000 - F3FFFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED13000 - FED13FFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED14000 - FED17FFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED18000 - FED18FFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED19000 - FED19FFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED1C000 - FED1FFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED20000 - FED3FFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED45000 - FED99FFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>000C0000 - 000DFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>000E0000 - 000FFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>F0000000 - F3FFFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED13000 - FED13FFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED14000 - FED17FFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED18000 - FED18FFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED19000 - FED19FFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED1C000 - FED1FFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED20000 - FED3FFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>FED45000 - FED99FFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>000C0000 - 000DFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Location</Entry>
+			<Description>000E0000 - 000FFFFF</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#192;&#240;&#232;&#244;&#236;&#229;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#241;&#238;&#239;&#240;&#238;&#246;&#229;&#241;&#241;&#238;&#240;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#192;&#240;&#232;&#244;&#236;&#229;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#241;&#238;&#239;&#240;&#238;&#246;&#229;&#241;&#241;&#238;&#240;</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>00F0</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>13</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Port</Entry>
+			<Description>00F0</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>13</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>&#202;&#237;&#238;&#239;&#234;&#224; &#241;&#239;&#255;&#249;&#229;&#227;&#238; &#240;&#229;&#230;&#232;&#236;&#224; ACPI</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>&#202;&#237;&#238;&#239;&#234;&#224; &#241;&#239;&#255;&#249;&#229;&#227;&#238; &#240;&#229;&#230;&#232;&#236;&#224; ACPI</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Microsoft PS/2 &#236;&#251;&#248;&#252;</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Microsoft PS/2 &#236;&#251;&#248;&#252;</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>12</Description>
+		</Property>
+		<Property>
+			<Entry>IRQ</Entry>
+			<Description>12</Description>
+		</Property>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>SMBIOS DMI</NodeName>
+<SubNode>
+	<NodeName>Processor</NodeName>
+		<Property>
+			<Entry>Processor Manufacturer</Entry>
+			<Description>Intel(R) Corporation</Description>
+		</Property>
+		<Property>
+			<Entry>Processor Version</Entry>
+			<Description>Intel(R) Pentium(R) 4 CPU 3.20GHz</Description>
+		</Property>
+		<Property>
+			<Entry>External Clock</Entry>
+			<Description>200 MHz</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Clock Supported</Entry>
+			<Description>4000 MHz</Description>
+		</Property>
+		<Property>
+			<Entry>Current Clock</Entry>
+			<Description>3200 MHz</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Socket</Entry>
+			<Description>Populated</Description>
+		</Property>
+		<Property>
+			<Entry>CPU Status</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Processor Type</Entry>
+			<Description>Central Processor</Description>
+		</Property>
+		<Property>
+			<Entry>Processor Voltage</Entry>
+			<Description>3.0 V</Description>
+		</Property>
+		<Property>
+			<Entry>Processor Upgrade</Entry>
+			<Description>Unknown (1)</Description>
+		</Property>
+		<Property>
+			<Entry>Socket Designation</Entry>
+			<Description>LGA 775</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Unknown</NodeName>
+		<Property>
+			<Entry>Socket Designation</Entry>
+			<Description>Unknown</Description>
+		</Property>
+		<Property>
+			<Entry>Cache State</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Location</Entry>
+			<Description>Internal</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Type</Entry>
+			<Description>L1 Data</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Scheme</Entry>
+			<Description>Write-Back</Description>
+		</Property>
+		<Property>
+			<Entry>Supported SRAM Type</Entry>
+			<Description>Asynchronous</Description>
+		</Property>
+		<Property>
+			<Entry>Current SRAM Type</Entry>
+			<Description>Asynchronous</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Speed</Entry>
+			<Description>Unknown</Description>
+		</Property>
+		<Property>
+			<Entry>Error Correction Type</Entry>
+			<Description>Single-bit ECC</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Cache Size</Entry>
+			<Description>16 KBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Installed Cache Size</Entry>
+			<Description>16 KBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Associativity</Entry>
+			<Description>8-way Set-Associative</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Unknown</NodeName>
+		<Property>
+			<Entry>Socket Designation</Entry>
+			<Description>Unknown</Description>
+		</Property>
+		<Property>
+			<Entry>Cache State</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Location</Entry>
+			<Description>Internal</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Type</Entry>
+			<Description>L2 Unified</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Scheme</Entry>
+			<Description>Write-Back</Description>
+		</Property>
+		<Property>
+			<Entry>Supported SRAM Type</Entry>
+			<Description>Asynchronous</Description>
+		</Property>
+		<Property>
+			<Entry>Current SRAM Type</Entry>
+			<Description>Asynchronous</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Speed</Entry>
+			<Description>Unknown</Description>
+		</Property>
+		<Property>
+			<Entry>Error Correction Type</Entry>
+			<Description>Single-bit ECC</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Cache Size</Entry>
+			<Description>1024 KBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Installed Cache Size</Entry>
+			<Description>1024 KBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Associativity</Entry>
+			<Description>8-way Set-Associative</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>BIOS</NodeName>
+		<Property>
+			<Entry>BIOS Vendor</Entry>
+			<Description>Intel Corp.</Description>
+		</Property>
+		<Property>
+			<Entry>BIOS Version</Entry>
+			<Description>PE94510M.86A.0050.2007.0710.1559</Description>
+		</Property>
+		<Property>
+			<Entry>BIOS Release Date</Entry>
+			<Description>07/10/2007</Description>
+		</Property>
+		<Property>
+			<Entry>BIOS Start Segment</Entry>
+			<Description>F000</Description>
+		</Property>
+		<Property>
+			<Entry>BIOS Size</Entry>
+			<Description>512 KBytes</Description>
+		</Property>
+		<Property>
+			<Entry>System BIOS Version</Entry>
+			<Description>0.0</Description>
+		</Property>
+		<Property>
+			<Entry>Embedded Controller Firmware Version</Entry>
+			<Description>0.0</Description>
+		</Property>
+		<Property>
+			<Entry>ISA Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>MCA Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>EISA Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>PC Card (PCMCIA) Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Plug-and-Play Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>APM Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Flash BIOS</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>BIOS Shadow</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>VL-VESA Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>ESCD Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Boot from CD</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Selectable Boot</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>BIOS ROM Socketed</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Boot from PC Card</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>EDD Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>NEC PC-98 Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>ACPI Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>USB Legacy Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>AGP Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>I2O Boot Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>LS-120 Boot Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>ATAPI ZIP Drive Boot Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>IEE1394 Boot Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Smart Battery Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>BIOS Boot Specification Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Function key-initiated Network Service Boot Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Targeted Content Distribution Support</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>UEFI Specification Support</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Virtual Machine</Entry>
+			<Description>Not Present</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>System</NodeName>
+		<Property>
+			<Entry>System Manufacturer</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>Product Name</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>Product Version</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>Product Serial Number</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>UUID</Entry>
+			<Description>{7071AD73-8A58-DC11-B2B6-0011D8535E5B}</Description>
+		</Property>
+		<Property>
+			<Entry>SKU Number</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>Family</Entry>
+			<Description></Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Mainboard</NodeName>
+		<Property>
+			<Entry>Mainboard Manufacturer</Entry>
+			<Description>Intel Corporation</Description>
+		</Property>
+		<Property>
+			<Entry>Mainboard Name</Entry>
+			<Description>D945GCPE</Description>
+		</Property>
+		<Property>
+			<Entry>Mainboard Version</Entry>
+			<Description>AAD97209-201</Description>
+		</Property>
+		<Property>
+			<Entry>Mainboard Serial Number</Entry>
+			<Description>AZPE73600G40</Description>
+		</Property>
+		<Property>
+			<Entry>Asset Tag</Entry>
+			<Description>Base Board Asset Tag</Description>
+		</Property>
+		<Property>
+			<Entry>Location in chassis</Entry>
+			<Description>Base Board Chassis Location</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>System Enclosure</NodeName>
+		<Property>
+			<Entry>Manufacturer</Entry>
+			<Description>                                </Description>
+		</Property>
+		<Property>
+			<Entry>Case Type</Entry>
+			<Description>Desktop</Description>
+		</Property>
+		<Property>
+			<Entry>Version</Entry>
+			<Description>                        </Description>
+		</Property>
+		<Property>
+			<Entry>Serial Number</Entry>
+			<Description>                                </Description>
+		</Property>
+		<Property>
+			<Entry>Asset Tag Number</Entry>
+			<Description>                                </Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>On Board Device</NodeName>
+		<Property>
+			<Entry>Device Description</Entry>
+			<Description>Intel(R) Extreme Graphics 3 Controller</Description>
+		</Property>
+		<Property>
+			<Entry>Device Type</Entry>
+			<Description>Video Adapter</Description>
+		</Property>
+		<Property>
+			<Entry>Device Status</Entry>
+			<Description>Enabled</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>On Board Device</NodeName>
+		<Property>
+			<Entry>Device Description</Entry>
+			<Description>Realtek (R) 8101E Ethernet Device</Description>
+		</Property>
+		<Property>
+			<Entry>Device Type</Entry>
+			<Description>Ethernet Adapter</Description>
+		</Property>
+		<Property>
+			<Entry>Device Status</Entry>
+			<Description>Enabled</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>On Board Device</NodeName>
+		<Property>
+			<Entry>Device Description</Entry>
+			<Description>Intel(R) Azalia Audio Device</Description>
+		</Property>
+		<Property>
+			<Entry>Device Type</Entry>
+			<Description>Audio Device</Description>
+		</Property>
+		<Property>
+			<Entry>Device Status</Entry>
+			<Description>Enabled</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>BIOS Language</NodeName>
+		<Property>
+			<Entry></Entry>
+			<Description>enUS &lt;Active&gt;</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>System Boot Information</NodeName>
+		<Property>
+			<Entry>Boot Status</Entry>
+			<Description>No error occured</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Memory Devices</NodeName>
+<SubNode>
+	<NodeName>Physical Memory Array</NodeName>
+		<Property>
+			<Entry>Array Location</Entry>
+			<Description>System board</Description>
+		</Property>
+		<Property>
+			<Entry>Array Use</Entry>
+			<Description>System memory</Description>
+		</Property>
+		<Property>
+			<Entry>Error Detecting Method</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Capacity</Entry>
+			<Description>4 GBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Devices</Entry>
+			<Description>2</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Memory Device</NodeName>
+		<Property>
+			<Entry>Total Width</Entry>
+			<Description>64 bits</Description>
+		</Property>
+		<Property>
+			<Entry>Data Width</Entry>
+			<Description>64 bits</Description>
+		</Property>
+		<Property>
+			<Entry>Device Size</Entry>
+			<Description>2048 MBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Device Form Factor</Entry>
+			<Description>DIMM</Description>
+		</Property>
+		<Property>
+			<Entry>Device Locator</Entry>
+			<Description>J6H1</Description>
+		</Property>
+		<Property>
+			<Entry>Bank Locator</Entry>
+			<Description>CHAN A DIMM 0</Description>
+		</Property>
+		<Property>
+			<Entry>Device Type</Entry>
+			<Description>DDR2 SDRAM</Description>
+		</Property>
+		<Property>
+			<Entry>Device Type Detail</Entry>
+			<Description>Synchronous</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Speed</Entry>
+			<Description>667 MHz</Description>
+		</Property>
+		<Property>
+			<Entry>Manufacturer</Entry>
+			<Description>0x0000000000000000</Description>
+		</Property>
+		<Property>
+			<Entry>Serial Number</Entry>
+			<Description>0x5D0204E9</Description>
+		</Property>
+		<Property>
+			<Entry>Part Number</Entry>
+			<Description>0x202020202020202020202020202020202020</Description>
+		</Property>
+		<Property>
+			<Entry>Asset Tag</Entry>
+			<Description>Unknown</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Memory Device Mapped Address</NodeName>
+		<Property>
+			<Entry>Starting Address</Entry>
+			<Description>00000000</Description>
+		</Property>
+		<Property>
+			<Entry>Ending Address</Entry>
+			<Description>001FFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Partition Row Position</Entry>
+			<Description>1</Description>
+		</Property>
+		<Property>
+			<Entry>Interleave Position</Entry>
+			<Description>Non-interleaved</Description>
+		</Property>
+		<Property>
+			<Entry>Interleave Data Depth</Entry>
+			<Description>0</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Memory Device</NodeName>
+		<Property>
+			<Entry>Total Width</Entry>
+			<Description>64 bits</Description>
+		</Property>
+		<Property>
+			<Entry>Data Width</Entry>
+			<Description>64 bits</Description>
+		</Property>
+		<Property>
+			<Entry>Device Size</Entry>
+			<Description>1024 MBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Device Form Factor</Entry>
+			<Description>DIMM</Description>
+		</Property>
+		<Property>
+			<Entry>Device Locator</Entry>
+			<Description>J6J1</Description>
+		</Property>
+		<Property>
+			<Entry>Bank Locator</Entry>
+			<Description>CHAN B DIMM 0</Description>
+		</Property>
+		<Property>
+			<Entry>Device Type</Entry>
+			<Description>DDR2 SDRAM</Description>
+		</Property>
+		<Property>
+			<Entry>Device Type Detail</Entry>
+			<Description>Synchronous</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Speed</Entry>
+			<Description>667 MHz</Description>
+		</Property>
+		<Property>
+			<Entry>Manufacturer</Entry>
+			<Description>0x7F4F000000000000</Description>
+		</Property>
+		<Property>
+			<Entry>Serial Number</Entry>
+			<Description>0x0007AC07</Description>
+		</Property>
+		<Property>
+			<Entry>Part Number</Entry>
+			<Description>0x54533132384D4C51363456384A2020202020</Description>
+		</Property>
+		<Property>
+			<Entry>Asset Tag</Entry>
+			<Description>Unknown</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Memory Device Mapped Address</NodeName>
+		<Property>
+			<Entry>Starting Address</Entry>
+			<Description>00200000</Description>
+		</Property>
+		<Property>
+			<Entry>Ending Address</Entry>
+			<Description>002FFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Partition Row Position</Entry>
+			<Description>1</Description>
+		</Property>
+		<Property>
+			<Entry>Interleave Position</Entry>
+			<Description>Non-interleaved</Description>
+		</Property>
+		<Property>
+			<Entry>Interleave Data Depth</Entry>
+			<Description>0</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Memory Array Mapped Address</NodeName>
+		<Property>
+			<Entry>Starting Address</Entry>
+			<Description>00000000</Description>
+		</Property>
+		<Property>
+			<Entry>Ending Address</Entry>
+			<Description>002FFFFF</Description>
+		</Property>
+		<Property>
+			<Entry>Partition Width</Entry>
+			<Description>4</Description>
+		</Property>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Port Connectors</NodeName>
+<SubNode>
+	<NodeName>Port Connector</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>Unknown</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>PRIMARY</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>On Board IDE</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Port Connector</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>Unknown</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>ATX_PWR</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>Unknown</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>SATA</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>SATA</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>SATA</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>SAS/SATA Plug Receptacle</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Mouse Port</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>Mouse Port</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>J1A1</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>PS2 Mouse</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>PS/2</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Keyboard Port</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>Keyboard Port</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>J1A1</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>Keyboard</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>PS/2</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>USB</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>USB</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>J2A2</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>USB1</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>Access Bus (USB)</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>USB</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>USB</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>J2A2</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>USB2</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>Access Bus (USB)</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Serial Port 16550A Compatible</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>Serial Port 16550A Compatible</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>J2A1</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>COMA</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>DB-9 pin male</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Audio Port</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>Audio Port</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>J6A1</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>Audio Mic In</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>Mini-jack (headphones)</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Audio Port</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>Audio Port</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>J6A1</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>Audio Line In</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>Mini-jack (headphones)</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Audio Port</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>Audio Port</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>J6B1</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>On Board Sound Input from CD-ROM</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>Audio Aux In</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Audio Port</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>Audio Port</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description>J6B2</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>On Board Sound Input from CD-ROM</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>Audio CD In</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Network Port</NodeName>
+		<Property>
+			<Entry>Port Type</Entry>
+			<Description>Network Port</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Reference</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>Internal Connector Type</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>External Reference</Entry>
+			<Description>Lan</Description>
+		</Property>
+		<Property>
+			<Entry>External Connector Type</Entry>
+			<Description>RJ-45</Description>
+		</Property>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>System Slots</NodeName>
+<SubNode>
+	<NodeName>PCI SLOT 1</NodeName>
+		<Property>
+			<Entry>Slot Designation</Entry>
+			<Description>PCI SLOT 1</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Type</Entry>
+			<Description>PCI</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Usage</Entry>
+			<Description>Empty</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Data Bus Width</Entry>
+			<Description>32-bit</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Length</Entry>
+			<Description>Long</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>PCI SLOT 2</NodeName>
+		<Property>
+			<Entry>Slot Designation</Entry>
+			<Description>PCI SLOT 2</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Type</Entry>
+			<Description>PCI</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Usage</Entry>
+			<Description>Empty</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Data Bus Width</Entry>
+			<Description>32-bit</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Length</Entry>
+			<Description>Long</Description>
+		</Property>
+</SubNode>
+</SubNode>
+</SubNode>
+</MOBO>
+<MEMORY>
+	<NodeName>Memory</NodeName>
+		<IconIndex>22</IconIndex>
+
+		<Property>
+			<Entry>Total Memory Size</Entry>
+			<Description>3 GBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Total Memory Size [MB]</Entry>
+			<Description>3072</Description>
+			<PropertyType>SYSTEM_MEMORY</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Current Memory Clock</Entry>
+			<Description>332.5 MHz (5 : 3 ratio)</Description>
+		</Property>
+		<Property>
+			<Entry>Current Timing (tCAS-tRCD-tRP-tRAS)</Entry>
+			<Description>5-5-5-15</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Channels Supported</Entry>
+			<Description>2</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Channels Active</Entry>
+			<Description>2 (Asymmetric)</Description>
+		</Property>
+		<Property>
+			<Entry>Read to Read Delay (tRD_RD) Different Rank</Entry>
+			<Description>6T</Description>
+		</Property>
+		<Property>
+			<Entry>Write to Write Delay (tWR_WR) Different Rank</Entry>
+			<Description>6T</Description>
+		</Property>
+		<Property>
+			<Entry>Read to Write Delay (tRD_WR) Same Rank</Entry>
+			<Description>9T</Description>
+		</Property>
+		<Property>
+			<Entry>Write to Read Delay (tWR_RD) Same Rank (tWTR)</Entry>
+			<Description>11T</Description>
+		</Property>
+		<Property>
+			<Entry>Write to Read Delay (tWR_RD) Different Rank</Entry>
+			<Description>5T</Description>
+		</Property>
+		<Property>
+			<Entry>Read to Precharge Delay (tRTP)</Entry>
+			<Description>5T</Description>
+		</Property>
+		<Property>
+			<Entry>Write to Precharge Delay (tWTP)</Entry>
+			<Description>24T</Description>
+		</Property>
+		<Property>
+			<Entry>Write Recovery Time (tWR)</Entry>
+			<Description>13T</Description>
+		</Property>
+		<Property>
+			<Entry>Refresh Cycle Time (tRFC)</Entry>
+			<Description>43T</Description>
+		</Property>
+<SubNode>
+	<NodeName>Row: 0 - 2 GB PC2-6400 DDR2-SDRAM                   </NodeName>
+		<Property>
+			<Entry>Module Number</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Module Size</Entry>
+			<Description>2 GBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Type</Entry>
+			<Description>DDR2-SDRAM</Description>
+		</Property>
+		<Property>
+			<Entry>Module Type</Entry>
+			<Description>Regular Unbuffered (UDIMM) </Description>
+		</Property>
+		<Property>
+			<Entry>Error Check/Correction</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Speed</Entry>
+			<Description>400.0 MHz (PC2-6400)</Description>
+		</Property>
+		<Property>
+			<Entry>Module Manufacturer</Entry>
+			<Description>Unknown</Description>
+		</Property>
+		<Property>
+			<Entry>Module Part Number</Entry>
+			<Description>                  </Description>
+		</Property>
+		<Property>
+			<Entry>Module Serial Number</Entry>
+			<Description>3909354077</Description>
+		</Property>
+		<Property>
+			<Entry>Module Manufacturing Date</Entry>
+			<Description>Year: 2022, Week: 25</Description>
+		</Property>
+		<Property>
+			<Entry>Module Width</Entry>
+			<Description>64-bits</Description>
+		</Property>
+		<Property>
+			<Entry>Module Voltage</Entry>
+			<Description>SSTL 1.8V</Description>
+		</Property>
+		<Property>
+			<Entry>SPD Revision</Entry>
+			<Description>1.2</Description>
+		</Property>
+		<Property>
+			<Entry>Number Of Ranks</Entry>
+			<Description>2</Description>
+		</Property>
+		<Property>
+			<Entry>Row Address Bits</Entry>
+			<Description>14</Description>
+		</Property>
+		<Property>
+			<Entry>Column Address Bits</Entry>
+			<Description>10</Description>
+		</Property>
+		<Property>
+			<Entry>Number Of Banks</Entry>
+			<Description>8</Description>
+		</Property>
+		<Property>
+			<Entry>Supported Burst Lengths</Entry>
+			<Description>4, 8</Description>
+		</Property>
+		<Property>
+			<Entry>Refresh Rate</Entry>
+			<Description>Reduced 0.5x (7.8 us)</Description>
+		</Property>
+		<Property>
+			<Entry>Supported CAS Latencies (tCAS)</Entry>
+			<Description>6.0, 5.0, 4.0</Description>
+		</Property>
+		<Property>
+			<Entry>Min. RAS-to-CAS Delay (tRCD)</Entry>
+			<Description>15.00 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Min. Row Precharge Time (tRP)</Entry>
+			<Description>15.00 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Min. RAS Pulse Width (tRAS)</Entry>
+			<Description>45 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Supported Module Timing at 400.0 MHz</Entry>
+			<Description>6.0-6-6-18</Description>
+		</Property>
+		<Property>
+			<Entry>Supported Module Timing at 333.3 MHz</Entry>
+			<Description>5.0-5-5-15</Description>
+		</Property>
+		<Property>
+			<Entry>Supported Module Timing at 266.7 MHz</Entry>
+			<Description>4.0-4-4-12</Description>
+		</Property>
+		<Property>
+			<Entry>Min. Row-Activate To Row-Activate Delay (tRRD)</Entry>
+			<Description>7.50 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Write Recovery Time (tWR)</Entry>
+			<Description>15.00 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Internal write to read command delay (tWTR)</Entry>
+			<Description>7.50 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Internal read to precharge command delay (tRTP)</Entry>
+			<Description>7.50 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Minimum Activate to Activate/Refresh Time (tRC)</Entry>
+			<Description>60.00 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Minimum Refresh to Activate/Refresh Command Period (tRFC)</Entry>
+			<Description>127.50 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Address and Command Setup Time Before Clock (tIS)</Entry>
+			<Description>0.17 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Address and Command Setup Time After Clock (tIH)</Entry>
+			<Description>0.25 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Data Input Setup Time Before Strobe (tDS)</Entry>
+			<Description>0.05 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Data Input Setup Time After Strobe (tDH)</Entry>
+			<Description>0.12 ns</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Row: 2 - 1 GB PC2-6400 DDR2-SDRAM Transcend TS128MLQ64V8J     </NodeName>
+		<Property>
+			<Entry>Module Number</Entry>
+			<Description>2</Description>
+		</Property>
+		<Property>
+			<Entry>Module Size</Entry>
+			<Description>1 GBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Type</Entry>
+			<Description>DDR2-SDRAM</Description>
+		</Property>
+		<Property>
+			<Entry>Module Type</Entry>
+			<Description>Regular Unbuffered (UDIMM) </Description>
+		</Property>
+		<Property>
+			<Entry>Error Check/Correction</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Speed</Entry>
+			<Description>400.0 MHz (PC2-6400)</Description>
+		</Property>
+		<Property>
+			<Entry>Module Manufacturer</Entry>
+			<Description>Transcend</Description>
+		</Property>
+		<Property>
+			<Entry>Module Part Number</Entry>
+			<Description>TS128MLQ64V8J     </Description>
+		</Property>
+		<Property>
+			<Entry>Module Serial Number</Entry>
+			<Description>128714496</Description>
+		</Property>
+		<Property>
+			<Entry>Module Manufacturing Date</Entry>
+			<Description>Year: 2007, Week: 36</Description>
+		</Property>
+		<Property>
+			<Entry>Module Width</Entry>
+			<Description>64-bits</Description>
+		</Property>
+		<Property>
+			<Entry>Module Voltage</Entry>
+			<Description>SSTL 1.8V</Description>
+		</Property>
+		<Property>
+			<Entry>SPD Revision</Entry>
+			<Description>1.2</Description>
+		</Property>
+		<Property>
+			<Entry>Number Of Ranks</Entry>
+			<Description>2</Description>
+		</Property>
+		<Property>
+			<Entry>Row Address Bits</Entry>
+			<Description>14</Description>
+		</Property>
+		<Property>
+			<Entry>Column Address Bits</Entry>
+			<Description>10</Description>
+		</Property>
+		<Property>
+			<Entry>Number Of Banks</Entry>
+			<Description>4</Description>
+		</Property>
+		<Property>
+			<Entry>Supported Burst Lengths</Entry>
+			<Description>4, 8</Description>
+		</Property>
+		<Property>
+			<Entry>Refresh Rate</Entry>
+			<Description>Reduced 0.5x (7.8 us)</Description>
+		</Property>
+		<Property>
+			<Entry>Supported CAS Latencies (tCAS)</Entry>
+			<Description>5.0, 4.0, 3.0</Description>
+		</Property>
+		<Property>
+			<Entry>Min. RAS-to-CAS Delay (tRCD)</Entry>
+			<Description>12.50 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Min. Row Precharge Time (tRP)</Entry>
+			<Description>12.50 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Min. RAS Pulse Width (tRAS)</Entry>
+			<Description>39 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Supported Module Timing at 400.0 MHz</Entry>
+			<Description>5.0-5-5-16</Description>
+		</Property>
+		<Property>
+			<Entry>Supported Module Timing at 266.7 MHz</Entry>
+			<Description>4.0-4-4-11</Description>
+		</Property>
+		<Property>
+			<Entry>Supported Module Timing at 200.0 MHz</Entry>
+			<Description>3.0-3-3-8</Description>
+		</Property>
+		<Property>
+			<Entry>Min. Row-Activate To Row-Activate Delay (tRRD)</Entry>
+			<Description>7.50 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Write Recovery Time (tWR)</Entry>
+			<Description>15.00 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Internal write to read command delay (tWTR)</Entry>
+			<Description>7.50 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Internal read to precharge command delay (tRTP)</Entry>
+			<Description>7.50 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Minimum Activate to Activate/Refresh Time (tRC)</Entry>
+			<Description>51.50 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Minimum Refresh to Activate/Refresh Command Period (tRFC)</Entry>
+			<Description>105.00 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Address and Command Setup Time Before Clock (tIS)</Entry>
+			<Description>0.17 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Address and Command Setup Time After Clock (tIH)</Entry>
+			<Description>0.25 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Data Input Setup Time Before Strobe (tDS)</Entry>
+			<Description>0.05 ns</Description>
+		</Property>
+		<Property>
+			<Entry>Data Input Setup Time After Strobe (tDH)</Entry>
+			<Description>0.12 ns</Description>
+		</Property>
+</SubNode>
+</MEMORY>
+<BUS>
+	<NodeName>Bus</NodeName>
+		<IconIndex>14</IconIndex>
+
+<SubNode>
+	<NodeName>PCI Bus #0</NodeName>
+<SubNode>
+	<NodeName>Intel 82945G(Z) Memory Controller Hub [A-2]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82945G(Z) Memory Controller Hub [A-2]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82945G(Z) Memory Controller Hub [A-2]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>Host-to-PCI Bridge</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>2</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:0:0</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_2770&amp;SUBSYS_D6078086&amp;REV_02</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>N/A</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>N/A</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 945G/GZ/GC/P/PL CPU - I/O &#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; - 2770</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24441</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_2770&amp;SUBSYS_D6078086&amp;REV_02\3&amp;2ACF1E9&amp;0&amp;00</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(0000)</Description>
+		</Property>
+		<Property>
+			<Entry>Egress Port Base Address</Entry>
+			<Description>FED19000</Description>
+		</Property>
+		<Property>
+			<Entry>(G)MCH Memory Mapped Base Address</Entry>
+			<Description>FED14000</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Express Base Address</Entry>
+			<Description>F0000000</Description>
+		</Property>
+		<Property>
+			<Entry>DMI Root Complex Base Address</Entry>
+			<Description>FED18000</Description>
+		</Property>
+		<Property>
+			<Entry>Graphics Mode Select</Entry>
+			<Description>DVMT (UMA), 8 MB memory pre-allocated</Description>
+		</Property>
+		<Property>
+			<Entry>IGD VGA</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>PCIEXBAR</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>DMIBAR</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>MCHBAR</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>EPBAR</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Graphics Engine 1 [945G only]</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Internal Graphics Engine 0 [945G only]</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Express Graphics Port</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Host Bridge</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Segment F000-FFFF</Entry>
+			<Description>Read-only</Description>
+		</Property>
+		<Property>
+			<Entry>Segment C000-C3FF</Entry>
+			<Description>Read-only</Description>
+		</Property>
+		<Property>
+			<Entry>Segment C400-C7FF</Entry>
+			<Description>Read-only</Description>
+		</Property>
+		<Property>
+			<Entry>Segment C800-CBFF</Entry>
+			<Description>Read-only</Description>
+		</Property>
+		<Property>
+			<Entry>Segment CC00-CFFF</Entry>
+			<Description>Read-only</Description>
+		</Property>
+		<Property>
+			<Entry>Segment D000-D3FF</Entry>
+			<Description>Read-only</Description>
+		</Property>
+		<Property>
+			<Entry>Segment D400-D7FF</Entry>
+			<Description>Read-only</Description>
+		</Property>
+		<Property>
+			<Entry>Segment D800-DBFF</Entry>
+			<Description>Read-only</Description>
+		</Property>
+		<Property>
+			<Entry>Segment DC00-DFFF</Entry>
+			<Description>Read-only</Description>
+		</Property>
+		<Property>
+			<Entry>Segment E000-E3FF</Entry>
+			<Description>Read/Write</Description>
+		</Property>
+		<Property>
+			<Entry>Segment E400-E7FF</Entry>
+			<Description>Read/Write</Description>
+		</Property>
+		<Property>
+			<Entry>Segment E800-EBFF</Entry>
+			<Description>Read/Write</Description>
+		</Property>
+		<Property>
+			<Entry>Segment EC00-EFFF</Entry>
+			<Description>Read/Write</Description>
+		</Property>
+		<Property>
+			<Entry>Hole Enable</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>MDA</Entry>
+			<Description>Absent</Description>
+		</Property>
+		<Property>
+			<Entry>Top of Low Usable DRAM</Entry>
+			<Description>C0000000</Description>
+		</Property>
+		<Property>
+			<Entry>SMM Space Open</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>SMM Space Closed</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>SMM Space Locked</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Global SMRAM Enable</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Compatible SMM Space Base Segment</Entry>
+			<Description>A0000h-BFFFFh</Description>
+		</Property>
+		<Property>
+			<Entry>High SMRAM (H_SMRAM_EN)</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>SMRAM Cacheable</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>L1 Cache for SMRAM</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>L2 Cache for SMRAM</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>TSEG size</Entry>
+			<Description>1 MB</Description>
+		</Property>
+		<Property>
+			<Entry>TSEG Status</Entry>
+			<Description>Enabled</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82945G Integrated Graphics Controller</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82945G Integrated Graphics Controller</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82945G Integrated Graphics Controller</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>VGA Compatible Adapter</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>2</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:2:0</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_2772&amp;SUBSYS_D6078086&amp;REV_02</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ16</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTA#</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Base Address 0</Entry>
+			<Description>D0100000</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 1</Entry>
+			<Description>20E0</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Base Address 2</Entry>
+			<Description>C0000000</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Base Address 3</Entry>
+			<Description>D0180000</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel Corporation</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82945G Express Chipset Family</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Intel Corporation</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>8.15.10.1930</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>23-Sep-2009</Description>
+		</Property>
+		<Property>
+			<Entry>DCH/UWD Driver</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_2772&amp;SUBSYS_D6078086&amp;REV_02\3&amp;2ACF1E9&amp;0&amp;10</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(0200)</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - High Definition Audio [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - High Definition Audio [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - High Definition Audio [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>High Definition Audio</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:27:0</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27D8&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Version</Entry>
+			<Description>1.1</Description>
+		</Property>
+		<Property>
+			<Entry>Current Link Width</Entry>
+			<Description>Not negotiated</Description>
+		</Property>
+		<Property>
+			<Entry>Device/Port Type</Entry>
+			<Description>Root Complex Integrated Endpoint</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Implemented</Entry>
+			<Description>No</Description>
+		</Property>
+		<Property>
+			<Entry>Emergency Power Reduction</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Active State Power Management (ASPM) Support</Entry>
+			<Description>None</Description>
+		</Property>
+		<Property>
+			<Entry>Active State Power Management (ASPM) Status</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>L0s Exit Latency</Entry>
+			<Description>&lt; 64 ns</Description>
+		</Property>
+		<Property>
+			<Entry>L1 Exit Latency</Entry>
+			<Description>&lt; 1 us</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Payload Size Supported</Entry>
+			<Description>128 bytes</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Payload Size</Entry>
+			<Description>128 bytes</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ22</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTA#</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Base Address 0</Entry>
+			<Description>D01C0000</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; High Definition Audio (Microsoft)</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.17514</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>19-Nov-2010</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27D8&amp;SUBSYS_D6078086&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;D8</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1B00)</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - PCI Express Root Port 1 [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - PCI Express Root Port 1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - PCI Express Root Port 1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>PCI-to-PCI Bridge</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:28:0</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27D0&amp;SUBSYS_00000000&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Version</Entry>
+			<Description>1.1</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Link Width</Entry>
+			<Description>1x</Description>
+		</Property>
+		<Property>
+			<Entry>Current Link Width</Entry>
+			<Description>1x</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Link Speed</Entry>
+			<Description>2.5 GT/s</Description>
+		</Property>
+		<Property>
+			<Entry>Current Link Speed</Entry>
+			<Description>2.5 GT/s</Description>
+		</Property>
+		<Property>
+			<Entry>Device/Port Type</Entry>
+			<Description>Root Port of PCI Express Root Complex</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Implemented</Entry>
+			<Description>Yes</Description>
+		</Property>
+		<Property>
+			<Entry>Hot-Plug</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Hot-Plug Surprise</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Power Limit</Entry>
+			<Description>10.000 W</Description>
+		</Property>
+		<Property>
+			<Entry>Emergency Power Reduction</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Active State Power Management (ASPM) Support</Entry>
+			<Description>L0s and L1</Description>
+		</Property>
+		<Property>
+			<Entry>Active State Power Management (ASPM) Status</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>L0s Exit Latency</Entry>
+			<Description>512 ns - 1 us</Description>
+		</Property>
+		<Property>
+			<Entry>L1 Exit Latency</Entry>
+			<Description>2 - 4 us</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Payload Size Supported</Entry>
+			<Description>128 bytes</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Payload Size</Entry>
+			<Description>128 bytes</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ17</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTA#</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82801G (&#241;&#229;&#236;&#229;&#233;&#241;&#242;&#226;&#238; ICH7) PCI Express Root &#239;&#238;&#240;&#242; - 27D0</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24441</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27D0&amp;SUBSYS_00000000&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;E0</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1C00)</Description>
+		</Property>
+<SubNode>
+	<NodeName>PCI Express x1 Bus #1</NodeName>
+<SubNode>
+	<NodeName>RealTek Semiconductor RTL8101E Fast Ethernet NIC</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>RealTek Semiconductor RTL8101E Fast Ethernet NIC</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>RealTek Semiconductor RTL8101E Fast Ethernet NIC</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>Ethernet Adapter</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>1:0:0</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_10EC&amp;DEV_8136&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Version</Entry>
+			<Description>1.1</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Link Width</Entry>
+			<Description>1x</Description>
+		</Property>
+		<Property>
+			<Entry>Current Link Width</Entry>
+			<Description>1x</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Link Speed</Entry>
+			<Description>2.5 GT/s</Description>
+		</Property>
+		<Property>
+			<Entry>Current Link Speed</Entry>
+			<Description>2.5 GT/s</Description>
+		</Property>
+		<Property>
+			<Entry>Device/Port Type</Entry>
+			<Description>PCI Express Endpoint</Description>
+		</Property>
+		<Property>
+			<Entry>Slot Implemented</Entry>
+			<Description>No</Description>
+		</Property>
+		<Property>
+			<Entry>Emergency Power Reduction</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Active State Power Management (ASPM) Support</Entry>
+			<Description>L0s</Description>
+		</Property>
+		<Property>
+			<Entry>Active State Power Management (ASPM) Status</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>L0s Exit Latency</Entry>
+			<Description>&gt;4 us</Description>
+		</Property>
+		<Property>
+			<Entry>L1 Exit Latency</Entry>
+			<Description>&gt;64 us</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Payload Size Supported</Entry>
+			<Description>128 bytes</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Payload Size</Entry>
+			<Description>128 bytes</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ16</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTA#</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 0</Entry>
+			<Description>1000</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Base Address 2</Entry>
+			<Description>D0000000</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Realtek</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>&#209;&#229;&#242;&#229;&#226;&#224;&#255; &#234;&#224;&#240;&#242;&#224; Realtek RTL8101E Family PCI-E Fast Ethernet NIC (NDIS 6.20)</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>7.2.1127.2008</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>26-Feb-2008</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_10EC&amp;DEV_8136&amp;SUBSYS_D6078086&amp;REV_01\4&amp;2AFFBDF3&amp;0&amp;00E0</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1C00)#PCI(0000)</Description>
+		</Property>
+</SubNode>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>USB UHCI Controller</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:29:0</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27C8&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ23</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTA#</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 4</Entry>
+			<Description>2080</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>USB Version Supported</Entry>
+			<Description>1.0</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82801G (ICH7 Family) USB &#243;&#237;&#232;&#226;&#229;&#240;&#241;&#224;&#235;&#252;&#237;&#251;&#233; &#245;&#238;&#241;&#242;-&#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;  - 27C8</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24138</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27C8&amp;SUBSYS_D6078086&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;E8</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1D00)</Description>
+		</Property>
+<SubNode>
+	<NodeName>USB Root Hub</NodeName>
+<SubNode>
+	<NodeName>[Port1] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port2] : No Device Connected</NodeName>
+</SubNode>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>USB UHCI Controller</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:29:1</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27C9&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ19</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTB#</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 4</Entry>
+			<Description>2060</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>USB Version Supported</Entry>
+			<Description>1.0</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82801G (ICH7 Family) USB &#243;&#237;&#232;&#226;&#229;&#240;&#241;&#224;&#235;&#252;&#237;&#251;&#233; &#245;&#238;&#241;&#242;-&#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;  - 27C9</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24138</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27C9&amp;SUBSYS_D6078086&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;E9</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1D01)</Description>
+		</Property>
+<SubNode>
+	<NodeName>USB Root Hub</NodeName>
+<SubNode>
+	<NodeName>[Port1] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port2] : No Device Connected</NodeName>
+</SubNode>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>USB UHCI Controller</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:29:2</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27CA&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ18</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTC#</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 4</Entry>
+			<Description>2040</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>USB Version Supported</Entry>
+			<Description>1.0</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82801G (ICH7 Family) USB &#243;&#237;&#232;&#226;&#229;&#240;&#241;&#224;&#235;&#252;&#237;&#251;&#233; &#245;&#238;&#241;&#242;-&#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;  - 27CA</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24138</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27CA&amp;SUBSYS_D6078086&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;EA</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1D02)</Description>
+		</Property>
+<SubNode>
+	<NodeName>USB Root Hub</NodeName>
+<SubNode>
+	<NodeName>[Port1] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port2] : No Device Connected</NodeName>
+</SubNode>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - USB Universal Host Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>USB UHCI Controller</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:29:3</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27CB&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ16</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTD#</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 4</Entry>
+			<Description>2020</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>USB Version Supported</Entry>
+			<Description>1.0</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82801G (ICH7 Family) USB &#243;&#237;&#232;&#226;&#229;&#240;&#241;&#224;&#235;&#252;&#237;&#251;&#233; &#245;&#238;&#241;&#242;-&#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;  - 27CB</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24138</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27CB&amp;SUBSYS_D6078086&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;EB</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1D03)</Description>
+		</Property>
+<SubNode>
+	<NodeName>USB Root Hub</NodeName>
+<SubNode>
+	<NodeName>[Port1] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port2] : No Device Connected</NodeName>
+</SubNode>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - Enhanced USB2 Controller [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - Enhanced USB2 Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - Enhanced USB2 Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>USB EHCI Controller</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:29:7</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27CC&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ23</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTA#</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Base Address 0</Entry>
+			<Description>D01C4000</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>USB Version Supported</Entry>
+			<Description>2.0</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82801G (ICH7 Family) USB2 &#240;&#224;&#241;&#248;&#232;&#240;&#229;&#237;&#237;&#251;&#233; &#245;&#238;&#241;&#242;-&#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;  - 27CC</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24138</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27CC&amp;SUBSYS_D6078086&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;EF</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1D07)</Description>
+		</Property>
+<SubNode>
+	<NodeName>USB Root Hub</NodeName>
+<SubNode>
+	<NodeName>[Port1] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port2] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port3] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port4] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port5] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port6] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port7] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port8] : No Device Connected</NodeName>
+</SubNode>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 Direct Media Interface Bridge [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 Direct Media Interface Bridge [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 Direct Media Interface Bridge [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>PCI-to-PCI Bridge</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>E1</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:30:0</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_244E&amp;SUBSYS_00000000&amp;REV_E1</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>N/A</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>N/A</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82801 PCI &#236;&#238;&#241;&#242; - 244E</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24441</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_244E&amp;SUBSYS_D6078086&amp;REV_E1\3&amp;2ACF1E9&amp;0&amp;F0</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1E00)</Description>
+		</Property>
+		<Property>
+			<Entry>Hub ID [ICH4]</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>HP Unsupported [ICH5]</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Hub Interface Timeslice</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hub Interface Width</Entry>
+			<Description>8 bits</Description>
+		</Property>
+		<Property>
+			<Entry>Hub Interface Rate Valid</Entry>
+			<Description>No</Description>
+		</Property>
+		<Property>
+			<Entry>Hub Interface Rate</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Data Bursts Per Packet</Entry>
+			<Description></Description>
+		</Property>
+		<Property>
+			<Entry>Device 7 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 6 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 5 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 4 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 3 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 2 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 1 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 0 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Subtractive Decode Policy</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Device 8 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 7 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 6 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 5 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 4 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 3 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 2 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 1 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Device 0 Hide</Entry>
+			<Description>Visible</Description>
+		</Property>
+		<Property>
+			<Entry>Discard Delayed Transactions</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Block Delayed Transactions</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Delayed Transactions</Entry>
+			<Description>2 Active, 5 pending</Description>
+		</Property>
+		<Property>
+			<Entry>Auto Flush After Disconnect</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Never Prefetch</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Read Multiple Prefetch</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Read Line Prefetch</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Memory Read Prefetch</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Prefetch Flush [ICH5]</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>High Priority PCI</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>15-16MB Hole</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Discard Timer Mode [ICH2]</Entry>
+			<Description>128 PCICLKs (4 us)</Description>
+		</Property>
+		<Property>
+			<Entry>32-Clock Retry [ICH2]/12-Clock Retry [ICH3/4/5]</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Async Reads</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Prefetch</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Multi-Transaction Timer Count Value</Entry>
+			<Description>0 PCICLKs</Description>
+		</Property>
+		<Property>
+			<Entry>SERR# On Target Abort Receive</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>SERR# On Delayed Transaction Timeout</Entry>
+			<Description>Disabled</Description>
+		</Property>
+<SubNode>
+	<NodeName>PCI Bus #2</NodeName>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7(R) - LPC Bridge [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7(R) - LPC Bridge [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7(R) - LPC Bridge [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>PCI-to-ISA Bridge</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:31:0</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27B8&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>N/A</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>N/A</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82801GB/GR (&#241;&#229;&#236;&#229;&#233;&#241;&#242;&#226;&#238; ICH7) &#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; LPC-&#232;&#237;&#242;&#229;&#240;&#244;&#229;&#233;&#241;&#224; - 27B8</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24441</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27B8&amp;SUBSYS_D6078086&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;F8</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1F00)</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - ATA-100 IDE Controller [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - ATA-100 IDE Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - ATA-100 IDE Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>IDE Controller</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:31:1</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27DF&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ9</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTA#</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 0</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 1</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 2</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 3</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 4</Entry>
+			<Description>20B0</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;&#251; Intel(R) 82801G (&#241;&#229;&#236;&#229;&#233;&#241;&#242;&#226;&#238; ICH7) Ultra ATA Storage - 27DF</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.18231</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27DF&amp;SUBSYS_D6078086&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;F9</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1F01)</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - SATA Controller [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - SATA Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - SATA Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>IDE Controller</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:31:2</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27C0&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ19</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTB#</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 0</Entry>
+			<Description>20C8</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 1</Entry>
+			<Description>20EC</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 2</Entry>
+			<Description>20C0</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 3</Entry>
+			<Description>20E8</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 4</Entry>
+			<Description>20A0</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; Intel(R) 82801GB/GR/GH (&#241;&#229;&#236;&#229;&#233;&#241;&#242;&#226;&#238; ICH7) Serial ATA Storage - 27C0</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.18231</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27C0&amp;SUBSYS_D6078086&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;FA</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1F02)</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - SMBus Controller [A1]</NodeName>
+		<Property>
+			<Entry>Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - SMBus Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Original Device Name</Entry>
+			<Description>Intel 82801GB ICH7 - SMBus Controller [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>Device Class</Entry>
+			<Description>SMBus (System Management Bus)</Description>
+		</Property>
+		<Property>
+			<Entry>Revision ID</Entry>
+			<Description>1 [A1]</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Address (Bus:Device:Function) Number</Entry>
+			<Description>0:31:3</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Latency Timer</Entry>
+			<Description>0</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27DA&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Line</Entry>
+			<Description>IRQ11</Description>
+		</Property>
+		<Property>
+			<Entry>Interrupt Pin</Entry>
+			<Description>INTB#</Description>
+		</Property>
+		<Property>
+			<Entry>I/O Base Address 4</Entry>
+			<Description>2000</Description>
+		</Property>
+		<Property>
+			<Entry>Bus Mastering</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Running At 66 MHz</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Fast Back-to-Back Transactions</Entry>
+			<Description>Capable</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82801G (&#241;&#229;&#236;&#229;&#233;&#241;&#242;&#226;&#238; ICH7) &#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240; SMBus - 27DA</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24441</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>21-Jun-2006</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27DA&amp;SUBSYS_D6078086&amp;REV_01\3&amp;2ACF1E9&amp;0&amp;FB</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1F03)</Description>
+		</Property>
+</SubNode>
+</SubNode>
+</BUS>
+<VIDEO>
+	<NodeName>Video Adapter</NodeName>
+		<IconIndex>35</IconIndex>
+
+<SubNode>
+	<NodeName>Intel GMA950</NodeName>
+		<Property>
+			<Entry>Video Chipset</Entry>
+			<Description>Intel GMA950</Description>
+			<PropertyType>GFXCARD_CHIPSET</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Video Memory</Entry>
+			<Description>256 MBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Video Card</Entry>
+			<Description>Intel 82945G Integrated Graphics Controller [Intel]</Description>
+			<PropertyType>GFXCARD</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Video Bus</Entry>
+			<Description>PCI</Description>
+		</Property>
+		<Property>
+			<Entry>Video RAMDAC</Entry>
+			<Description>Internal</Description>
+		</Property>
+		<Property>
+			<Entry>Video BIOS Version</Entry>
+			<Description>1374 PC 14.12  08/28/2006  16:30:16</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_2772&amp;SUBSYS_D6078086&amp;REV_02</Description>
+		</Property>
+		<Property>
+			<Entry>PCI Location (Bus:Dev:Fnc)</Entry>
+			<Description>0:02:0</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Intel Corporation</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>Intel(R) 82945G Express Chipset Family</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Intel Corporation</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>8.15.10.1930</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>23-Sep-2009</Description>
+		</Property>
+		<Property>
+			<Entry>DCH/UWD Driver</Entry>
+			<Description>Not Capable</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_2772&amp;SUBSYS_D6078086&amp;REV_02\3&amp;2ACF1E9&amp;0&amp;10</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(0200)</Description>
+		</Property>
+</SubNode>
+</VIDEO>
+<MONITOR>
+	<NodeName>Monitor</NodeName>
+		<IconIndex>24</IconIndex>
+
+<SubNode>
+	<NodeName>LG L1753S</NodeName>
+		<Property>
+			<Entry>Monitor Name</Entry>
+			<Description>LG L1753S</Description>
+			<PropertyType>MONITOR</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Monitor Name (Manuf)</Entry>
+			<Description>L1753S                    </Description>
+			<PropertyType>MONITOR</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Serial Number</Entry>
+			<Description>97108</Description>
+		</Property>
+		<Property>
+			<Entry>Date Of Manufacture</Entry>
+			<Description>Week: 3, Year: 2007</Description>
+		</Property>
+		<Property>
+			<Entry>Monitor Hardware ID</Entry>
+			<Description>Monitor\GSM446F</Description>
+		</Property>
+		<Property>
+			<Entry>Max. Vertical Size</Entry>
+			<Description>27 cm</Description>
+		</Property>
+		<Property>
+			<Entry>Max. Horizontal Size</Entry>
+			<Description>34 cm</Description>
+		</Property>
+		<Property>
+			<Entry>Horizontal Frequency</Entry>
+			<Description>30 - 83 kHz</Description>
+		</Property>
+		<Property>
+			<Entry>Vertical Frequency</Entry>
+			<Description>56 - 75 Hz</Description>
+		</Property>
+		<Property>
+			<Entry>Maximum Pixel Clock</Entry>
+			<Description>140 MHz</Description>
+		</Property>
+		<Property>
+			<Entry>Input Signal</Entry>
+			<Description>Analog: 0.700 V / 0.000 V (0.700 V p-p)</Description>
+		</Property>
+		<Property>
+			<Entry>Display Type</Entry>
+			<Description>RGB color</Description>
+		</Property>
+		<Property>
+			<Entry>Gamma Factor</Entry>
+			<Description>2.20</Description>
+		</Property>
+		<Property>
+			<Entry>Standby</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Suspend</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Active Off</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Standard Colour Space (sRGB) Default</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Preferred Timing Mode</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Default GTF (Continuous Frequency)</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Serration VSync</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Sync On Green</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Composite Sync</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Separate Syncs</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Blank-to-black Setup</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>640 x 480</Entry>
+			<Description>75 Hz</Description>
+		</Property>
+		<Property>
+			<Entry>800 x 600</Entry>
+			<Description>75 Hz</Description>
+		</Property>
+		<Property>
+			<Entry>1024 x 768</Entry>
+			<Description>75 Hz</Description>
+		</Property>
+		<Property>
+			<Entry>1280 x 1024</Entry>
+			<Description>60 Hz</Description>
+		</Property>
+		<Property>
+			<Entry>1280 x 1024</Entry>
+			<Description>338 x 270 mm, Pixel Clock 108.00 MHz</Description>
+		</Property>
+</SubNode>
+</MONITOR>
+<DRIVES>
+	<NodeName>Drives</NodeName>
+		<IconIndex>36</IconIndex>
+
+<SubNode>
+	<NodeName>IDE Drives</NodeName>
+<SubNode>
+	<NodeName>WDC WD2500AAJS-00V4A0</NodeName>
+		<Property>
+			<Entry>Drive Controller</Entry>
+			<Description>Serial ATA 3Gb/s</Description>
+		</Property>
+		<Property>
+			<Entry>Host Controller</Entry>
+			<Description>ATA Channel 0</Description>
+		</Property>
+		<Property>
+			<Entry>Drive Model</Entry>
+			<Description>WDC WD2500AAJS-00V4A0</Description>
+			<PropertyType>HDD</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Drive Firmware Revision</Entry>
+			<Description>05.01D05</Description>
+		</Property>
+		<Property>
+			<Entry>Drive Serial Number</Entry>
+			<Description>WD-WCAWF8074591</Description>
+		</Property>
+		<Property>
+			<Entry>World Wide Name</Entry>
+			<Description>50014EE13304158</Description>
+		</Property>
+		<Property>
+			<Entry>Drive Capacity</Entry>
+			<Description>238,475 MBytes (250 GB)</Description>
+		</Property>
+		<Property>
+			<Entry>Drive Capacity [MB]</Entry>
+			<Description>238475</Description>
+			<PropertyType>HDD_SIZE</PropertyType>
+		</Property>
+		<Property>
+			<Entry>ATA Major Version Supported</Entry>
+			<Description>ATA/ATAPI-5, ATA/ATAPI-6, ATA/ATAPI-7, ATA8-ACS</Description>
+		</Property>
+		<Property>
+			<Entry>ATA Transport Version Supported</Entry>
+			<Description>SATA 2.6</Description>
+		</Property>
+		<Property>
+			<Entry>Number of Cylinders</Entry>
+			<Description>16383</Description>
+		</Property>
+		<Property>
+			<Entry>Number of Heads</Entry>
+			<Description>16</Description>
+		</Property>
+		<Property>
+			<Entry>Sectors Per Track</Entry>
+			<Description>63</Description>
+		</Property>
+		<Property>
+			<Entry>Number Of ECC Bytes</Entry>
+			<Description>50</Description>
+		</Property>
+		<Property>
+			<Entry>Number of Sectors</Entry>
+			<Description>16514064</Description>
+		</Property>
+		<Property>
+			<Entry>Total 32-bit LBA Sectors</Entry>
+			<Description>268435455</Description>
+		</Property>
+		<Property>
+			<Entry>Total 48-bit LBA Sectors</Entry>
+			<Description>488397168</Description>
+		</Property>
+		<Property>
+			<Entry>Logical Sector Size</Entry>
+			<Description>512 Bytes</Description>
+		</Property>
+		<Property>
+			<Entry>Cache Buffer Size</Entry>
+			<Description>8192 KBytes</Description>
+		</Property>
+		<Property>
+			<Entry>Sectors Per Interrupt</Entry>
+			<Description>Total: 16, Active: 16</Description>
+		</Property>
+		<Property>
+			<Entry>Max. PIO Transfer Mode</Entry>
+			<Description>4</Description>
+		</Property>
+		<Property>
+			<Entry>Multiword DMA Mode</Entry>
+			<Description>Total: 2, Active: -</Description>
+		</Property>
+		<Property>
+			<Entry>Singleword DMA Mode</Entry>
+			<Description>Total: -, Active: -</Description>
+		</Property>
+		<Property>
+			<Entry>Ultra-DMA Mode</Entry>
+			<Description>Total: 6 (ATA-133), Active: 5 (ATA-100)</Description>
+		</Property>
+		<Property>
+			<Entry>Max. Multiword DMA Transfer Rate</Entry>
+			<Description>16.7 MBytes/s</Description>
+		</Property>
+		<Property>
+			<Entry>Max. PIO with IORDY Transfer Rate</Entry>
+			<Description>16.7 MBytes/s</Description>
+		</Property>
+		<Property>
+			<Entry>Max. PIO w/o IORDY Transfer Rate</Entry>
+			<Description>16.7 MBytes/s</Description>
+		</Property>
+		<Property>
+			<Entry>Transfer Width</Entry>
+			<Description>16-bit</Description>
+		</Property>
+		<Property>
+			<Entry>Native Command Queuing</Entry>
+			<Description>Supported, Max. Depth: 32</Description>
+		</Property>
+		<Property>
+			<Entry>TRIM Command</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Fixed Drive</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>Removable Drive</Entry>
+			<Description>Not Present</Description>
+		</Property>
+		<Property>
+			<Entry>Magnetic Storage</Entry>
+			<Description>Present</Description>
+		</Property>
+		<Property>
+			<Entry>LBA Mode</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>DMA Mode</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>IORDY</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>IORDY Disableable</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Write Cache</Entry>
+			<Description>Present, Active</Description>
+		</Property>
+		<Property>
+			<Entry>S.M.A.R.T. Feature</Entry>
+			<Description>Present, Active</Description>
+		</Property>
+		<Property>
+			<Entry>Security Feature</Entry>
+			<Description>Present, Inactive</Description>
+		</Property>
+		<Property>
+			<Entry>Removable Media Feature</Entry>
+			<Description>Not Present, Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Power Management</Entry>
+			<Description>Present, Active</Description>
+		</Property>
+		<Property>
+			<Entry>Advanced Power Management</Entry>
+			<Description>Not Present, Inactive</Description>
+		</Property>
+		<Property>
+			<Entry>Packet Interface</Entry>
+			<Description>Not Present, Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Look-Ahead Buffer</Entry>
+			<Description>Present, Active</Description>
+		</Property>
+		<Property>
+			<Entry>Host Protected Area</Entry>
+			<Description>Present, Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Power-Up In Standby</Entry>
+			<Description>Supported, Inactive</Description>
+		</Property>
+		<Property>
+			<Entry>Automatic Acoustic Management</Entry>
+			<Description>Supported, Inactive</Description>
+		</Property>
+		<Property>
+			<Entry>48-bit LBA</Entry>
+			<Description>Supported, Active</Description>
+		</Property>
+		<Property>
+			<Entry>Host-Initiated Link Power Management</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Device-Initiated Link Power Management</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>In-Order Data Delivery</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware Feature Control</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Software Settings Preservation</Entry>
+			<Description>Supported, Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>NCQ Autosense</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Link Power State Device Sleep</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Hybrid Information Feature</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Rebuild Assist</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Power Disable</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>All Write Cache Non-Volatile</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Extended Number of User Addressable Sectors</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>CFast Specification</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>NCQ Priority Information</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Host Automatic Partial to Slumber Transitions</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Device Automatic Partial to Slumber Transitions</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>NCQ Streaming</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>NCQ Queue Management Command</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>DevSleep to Reduced Power State</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Out Of Band Management Interface</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Extended Power Conditions Feature</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Sense Data Reporting Feature</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Free-Fall Control Feature</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Write-Read-Verify Feature</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Security Feature</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Security Status</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Security Locked</Entry>
+			<Description>Disabled</Description>
+		</Property>
+		<Property>
+			<Entry>Security Frozen</Entry>
+			<Description>Enabled</Description>
+		</Property>
+		<Property>
+			<Entry>Enhanced Security Erase</Entry>
+			<Description>Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Sanitize Feature</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Sanitize Device - Crypto Scramble</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Sanitize Device - Overwrite</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Sanitize Device - Block Erase</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Sanitize Device - Antifreeze Lock</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Device Encrypts All User Data</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>Trusted Computing</Entry>
+			<Description>Not Supported</Description>
+		</Property>
+		<Property>
+			<Entry>[01] Raw Read Error Rate</Entry>
+			<Description>200/51, Worst: 200</Description>
+		</Property>
+		<Property>
+			<Entry>[03] Spin Up Time</Entry>
+			<Description>138/21, Worst: 137 (Data = 4075,0)</Description>
+		</Property>
+		<Property>
+			<Entry>[04] Start/Stop Count</Entry>
+			<Description>98/Always OK, Worst: 98 (Data = 2363,0)</Description>
+		</Property>
+		<Property>
+			<Entry>[05] Reallocated Sector Count</Entry>
+			<Description>200/140, Worst: 200</Description>
+		</Property>
+		<Property>
+			<Entry>[07] Seek Error Rate</Entry>
+			<Description>100/Always OK, Worst: 253</Description>
+		</Property>
+		<Property>
+			<Entry>[09] Power-On Hours/Cycle Count</Entry>
+			<Description>74/Always OK, Worst: 74 (19581 hours / 2.24 years)</Description>
+		</Property>
+		<Property>
+			<Entry>[0A] Spin Retry Count</Entry>
+			<Description>100/Always OK, Worst: 100</Description>
+		</Property>
+		<Property>
+			<Entry>[0B] Calibration Retry Count</Entry>
+			<Description>100/Always OK, Worst: 100</Description>
+		</Property>
+		<Property>
+			<Entry>[0C] Power Cycle Count</Entry>
+			<Description>98/Always OK, Worst: 98 (Data = 2361,0)</Description>
+		</Property>
+		<Property>
+			<Entry>[C0] Power-Off Retract Count</Entry>
+			<Description>200/Always OK, Worst: 200 (Data = 280,0)</Description>
+		</Property>
+		<Property>
+			<Entry>[C1] Load/Unload Cycle Count</Entry>
+			<Description>200/Always OK, Worst: 200 (Data = 2082,0)</Description>
+		</Property>
+		<Property>
+			<Entry>[C2] Temperature</Entry>
+			<Description>103/Always OK, Worst: 97 (40.0 &#176;C)</Description>
+		</Property>
+		<Property>
+			<Entry>[C4] Reallocation Event Count</Entry>
+			<Description>200/Always OK, Worst: 200</Description>
+		</Property>
+		<Property>
+			<Entry>[C5] Current Pending Sector Count</Entry>
+			<Description>200/Always OK, Worst: 200</Description>
+		</Property>
+		<Property>
+			<Entry>[C6] Off-Line Uncorrectable Sector Count</Entry>
+			<Description>200/Always OK, Worst: 200</Description>
+		</Property>
+		<Property>
+			<Entry>[C7] UltraDMA/SATA CRC Error Rate</Entry>
+			<Description>200/Always OK, Worst: 200</Description>
+		</Property>
+		<Property>
+			<Entry>[C8] Write/Multi-Zone Error Rate</Entry>
+			<Description>200/Always OK, Worst: 200</Description>
+		</Property>
+</SubNode>
+<SubNode>
+	<NodeName>Optiarc DVD RW AD-7170A</NodeName>
+		<Property>
+			<Entry>Drive Model</Entry>
+			<Description>Optiarc DVD RW AD-7170A</Description>
+		</Property>
+		<Property>
+			<Entry>Drive Firmware Revision</Entry>
+			<Description>1.03</Description>
+		</Property>
+		<Property>
+			<Entry>Serial Number</Entry>
+			<Description>781L975S212 </Description>
+		</Property>
+		<Property>
+			<Entry>Device Type</Entry>
+			<Description>DVD+R DL</Description>
+		</Property>
+		<Property>
+			<Entry>Drive can read</Entry>
+			<Description>CD-R, CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-RAM, DVD+R DL</Description>
+		</Property>
+		<Property>
+			<Entry>Drive can write</Entry>
+			<Description>CD-R, CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-RAM, DVD+R DL</Description>
+		</Property>
+</SubNode>
+</SubNode>
+</DRIVES>
+<SOUND>
+	<NodeName>Audio</NodeName>
+		<IconIndex>30</IconIndex>
+
+<SubNode>
+	<NodeName>Intel 82801GB ICH7 - High Definition Audio [A1]</NodeName>
+		<Property>
+			<Entry>Audio Adapter</Entry>
+			<Description>Intel 82801GB ICH7 - High Definition Audio [A1]</Description>
+			<PropertyType>AUDIO_CARD</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Audio Controller Hardware ID</Entry>
+			<Description>PCI\VEN_8086&amp;DEV_27D8&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>High Definition Audio Codec</Entry>
+			<Description>RealTek ALC662</Description>
+		</Property>
+		<Property>
+			<Entry>Audio Codec Hardware ID</Entry>
+			<Description>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0662&amp;SUBSYS_8086D607&amp;REV_1001</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>&#211;&#241;&#242;&#240;&#238;&#233;&#241;&#242;&#226;&#238; &#241; &#239;&#238;&#228;&#228;&#229;&#240;&#230;&#234;&#238;&#233; High Definition Audio</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>6.1.7601.24519</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>26-Aug-2019</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0662&amp;SUBSYS_8086D607&amp;REV_1001\4&amp;299D273A&amp;0&amp;0201</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+</SubNode>
+</SOUND>
+<NETWORK>
+	<NodeName>Network</NodeName>
+		<IconIndex>13</IconIndex>
+
+<SubNode>
+	<NodeName>RealTek Semiconductor RTL8101E Fast Ethernet NIC</NodeName>
+		<Property>
+			<Entry>Network Card</Entry>
+			<Description>RealTek Semiconductor RTL8101E Fast Ethernet NIC</Description>
+			<PropertyType>NETCARD</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Vendor Description</Entry>
+			<Description>Realtek RTL8101E PCI-E Fast Ethernet NIC</Description>
+		</Property>
+		<Property>
+			<Entry>MAC Address</Entry>
+			<Description>00-19-D1-B0-F9-25</Description>
+			<PropertyType>NETCARD_MAC</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Maximum Link Speed</Entry>
+			<Description>100 Mbps</Description>
+		</Property>
+		<Property>
+			<Entry>Transmit Buffer Size</Entry>
+			<Description>96896 Bytes</Description>
+		</Property>
+		<Property>
+			<Entry>Receive Buffer Size</Entry>
+			<Description>775168 Bytes</Description>
+		</Property>
+		<Property>
+			<Entry>Hardware ID</Entry>
+			<Description>PCI\VEN_10EC&amp;DEV_8136&amp;SUBSYS_D6078086&amp;REV_01</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Manufacturer</Entry>
+			<Description>Realtek</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Description</Entry>
+			<Description>&#209;&#229;&#242;&#229;&#226;&#224;&#255; &#234;&#224;&#240;&#242;&#224; Realtek RTL8101E Family PCI-E Fast Ethernet NIC (NDIS 6.20)</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Provider</Entry>
+			<Description>Microsoft</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Version</Entry>
+			<Description>7.2.1127.2008</Description>
+		</Property>
+		<Property>
+			<Entry>Driver Date</Entry>
+			<Description>26-Feb-2008</Description>
+		</Property>
+		<Property>
+			<Entry>DeviceInstanceId</Entry>
+			<Description>PCI\VEN_10EC&amp;DEV_8136&amp;SUBSYS_D6078086&amp;REV_01\4&amp;2AFFBDF3&amp;0&amp;00E0</Description>
+			<PropertyType>DeviceInstanceId</PropertyType>
+		</Property>
+		<Property>
+			<Entry>Location Paths</Entry>
+			<Description>PCIROOT(0)#PCI(1C00)#PCI(0000)</Description>
+		</Property>
+</SubNode>
+</NETWORK>
+<PORTS>
+	<NodeName>Ports</NodeName>
+		<IconIndex>27</IconIndex>
+
+<SubNode>
+	<NodeName>COM</NodeName>
+<SubNode>
+	<NodeName>COM1</NodeName>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>USB</NodeName>
+<SubNode>
+	<NodeName>Intel(R) 82801G (ICH7 Family) USB &#243;&#237;&#232;&#226;&#229;&#240;&#241;&#224;&#235;&#252;&#237;&#251;&#233; &#245;&#238;&#241;&#242;-&#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;  - 27C8</NodeName>
+<SubNode>
+	<NodeName>Root Hub</NodeName>
+<SubNode>
+	<NodeName>[Port1] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port2] : No Device Connected</NodeName>
+</SubNode>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel(R) 82801G (ICH7 Family) USB &#243;&#237;&#232;&#226;&#229;&#240;&#241;&#224;&#235;&#252;&#237;&#251;&#233; &#245;&#238;&#241;&#242;-&#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;  - 27C9</NodeName>
+<SubNode>
+	<NodeName>Root Hub</NodeName>
+<SubNode>
+	<NodeName>[Port1] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port2] : No Device Connected</NodeName>
+</SubNode>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel(R) 82801G (ICH7 Family) USB &#243;&#237;&#232;&#226;&#229;&#240;&#241;&#224;&#235;&#252;&#237;&#251;&#233; &#245;&#238;&#241;&#242;-&#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;  - 27CA</NodeName>
+<SubNode>
+	<NodeName>Root Hub</NodeName>
+<SubNode>
+	<NodeName>[Port1] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port2] : No Device Connected</NodeName>
+</SubNode>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel(R) 82801G (ICH7 Family) USB &#243;&#237;&#232;&#226;&#229;&#240;&#241;&#224;&#235;&#252;&#237;&#251;&#233; &#245;&#238;&#241;&#242;-&#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;  - 27CB</NodeName>
+<SubNode>
+	<NodeName>Root Hub</NodeName>
+<SubNode>
+	<NodeName>[Port1] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port2] : No Device Connected</NodeName>
+</SubNode>
+</SubNode>
+</SubNode>
+<SubNode>
+	<NodeName>Intel(R) 82801G (ICH7 Family) USB2 &#240;&#224;&#241;&#248;&#232;&#240;&#229;&#237;&#237;&#251;&#233; &#245;&#238;&#241;&#242;-&#234;&#238;&#237;&#242;&#240;&#238;&#235;&#235;&#229;&#240;  - 27CC</NodeName>
+<SubNode>
+	<NodeName>Root Hub</NodeName>
+<SubNode>
+	<NodeName>[Port1] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port2] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port3] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port4] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port5] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port6] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port7] : No Device Connected</NodeName>
+</SubNode>
+<SubNode>
+	<NodeName>[Port8] : No Device Connected</NodeName>
+</SubNode>
+</SubNode>
+</SubNode>
+</SubNode>
+</PORTS>
+</SubNodes>
+</COMPUTER>
+</HWINFO>
